@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Welcome to Logical Programs");
 
-            Fibonacci.DisplayFibonacciSeries();
+            PerfectNumber.FindThePerfectNumber();
         }
     }
 }
