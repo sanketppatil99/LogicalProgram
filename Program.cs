@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Welcome to Logical Programs");
 
-            PrimeNumber.primeNumber();
+            Reverse.ReverseNumber();
         }
     }
 }
