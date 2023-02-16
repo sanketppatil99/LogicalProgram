@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Welcome to Logical Programs");
 
-            Reverse.ReverseNumber();
+            StopWatch.simulateStopwatch();
         }
     }
 }
